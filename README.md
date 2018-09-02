@@ -7,6 +7,9 @@ Cools:
 https://academicpages.github.io/
 
 
+## Tasks: 
+[ ] Remove `, where I worked under the supervision of Dr. Naren Ramakrishnan at Discovery Analytics Center.'
+
 theme: jekyll-theme-primer
 title: KSM Tozammel Hossain
 plugins:
