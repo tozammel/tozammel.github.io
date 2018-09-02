@@ -2,6 +2,16 @@
 https://help.github.com/articles/configuring-jekyll/
 https://guides.github.com/features/pages/
 https://help.github.com/articles/configuring-jekyll-plugins/
+
+theme: jekyll-theme-primer
+title: KSM Tozammel Hossain
+plugins:
+   - jekyll-mentions
+   - jemoji
+   - jekyll-redirect-from
+   - jekyll-sitemap
+   - jekyll-feed
+   
 --->
 
 ## Welcome
