@@ -3,6 +3,10 @@ https://help.github.com/articles/configuring-jekyll/
 https://guides.github.com/features/pages/
 https://help.github.com/articles/configuring-jekyll-plugins/
 
+Cools: 
+https://academicpages.github.io/
+
+
 theme: jekyll-theme-primer
 title: KSM Tozammel Hossain
 plugins:
@@ -14,7 +18,7 @@ plugins:
    
 --->
 
-## Welcome
+## About Me
 
 My name is Tozammel Hossain. I am a postdoctoral research associate at the University of Southern California - [Information Sciences Institue (ISI)](https://www.isi.edu/). I earned my doctoral degree in the Department of Computer Science at [Virginia Tech](), where I worked under the supervision of [Dr. Naren Ramakrishnan](http://people.cs.vt.edu/~ramakris/) at [Discovery Analytics Center](https://dac.cs.vt.edu/).  
 
