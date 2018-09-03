@@ -3,12 +3,17 @@ https://help.github.com/articles/configuring-jekyll/
 https://guides.github.com/features/pages/
 https://help.github.com/articles/configuring-jekyll-plugins/
 
-Cools: 
-https://academicpages.github.io/
+minimal theme: 
+* https://pages-themes.github.io/minimal/
+* https://github.com/pages-themes/minimal
 
+Cools: 
+* https://academicpages.github.io/
+* https://github.com/academicpages/academicpages.github.io
+* https://github.com/LantaoYu/lantaoyu.github.io
 
 ## Tasks: 
-[ ] Remove `, where I worked under the supervision of Dr. Naren Ramakrishnan at Discovery Analytics Center.'
+[x] Remove `, where I worked under the supervision of Dr. Naren Ramakrishnan at Discovery Analytics Center.'
 
 theme: jekyll-theme-primer
 title: KSM Tozammel Hossain
