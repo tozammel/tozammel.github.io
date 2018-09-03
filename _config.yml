@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: KSM Tozammel Hossain
-logo: assets/img/Tozammel_Photo_04.jpg
+logo: /assets/img/Tozammel_Photo_04.jpg
 plugins:
    - jekyll-mentions
    - jemoji
