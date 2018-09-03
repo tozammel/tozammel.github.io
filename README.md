@@ -40,7 +40,9 @@ My career goal is to solve challenging problems in the area of data mining and m
 
 ### Virginia Tech
 
-I am pursuing a doctoral degree in the Department of Computer Science at Virginia Tech. I am working in the Discovery Analytics Center led by Dr. Naren Ramakrishnan. I plan to finish my doctoral degree by Jul 2016. My thesis is Couplings for Modeling Evolutionary Constraints and Improving Multiple Sequence Alignments. I received a masters degree from the same department in 2014.  Currently, I am working on the projects Protein Constraints Modeling, Social Network Sensors, and Supreme Court Ideal Points Miner. I also worked on other projects: Hidden Topic Ailment State Model and Feature Selection in Rank-Order Space. During my course of Ph.D. study, I took courses in the area of machine learning, data mining, statistics, and bioinformatics.
+I earned my doctoral degree in the Department of Computer Science at Virginia Tech. I performed my research in the Discovery Analytics Center led by Dr. Naren Ramakrishnan. My thesis was in the area of bioinformatics, specifically on modeling evolutionary constraints and improving multiple sequence alignments using couplings. I received a masters degree from the same department in 2014.
+
+<!---I am pursuing a doctoral degree in the Department of Computer Science at Virginia Tech. I am working in the Discovery Analytics Center led by Dr. Naren Ramakrishnan. I plan to finish my doctoral degree by Jul 2016. My thesis is Couplings for Modeling Evolutionary Constraints and Improving Multiple Sequence Alignments. I received a masters degree from the same department in 2014.  Currently, I am working on the projects Protein Constraints Modeling, Social Network Sensors, and Supreme Court Ideal Points Miner. I also worked on other projects: Hidden Topic Ailment State Model and Feature Selection in Rank-Order Space. During my course of Ph.D. study, I took courses in the area of machine learning, data mining, statistics, and bioinformatics. --->
 
 ### Bangladesh University of Engineering & Technology
 
