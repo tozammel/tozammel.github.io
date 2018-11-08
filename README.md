@@ -87,6 +87,26 @@ I worked on the project Computational Modeling of Gene Silencing for one year (A
 **[TCBB '13]**	KSM Tozammel Hossain, Debprakash Patnaik, Srivatsan Laxman, Prateek Jain, Chris Bailey-Kellogg, and Naren Ramakrishnan. Improved Multiple Sequence Alignments using Coupled Pattern Mining. In: IEEE/ACM Transactions on Computational Biology and Bioinformatics 10.5 (Sept. 2013), pp. 1098–1112. [Link]  
 **[JAMC ’09]**	Muhammad N Yanhaona, KSM Tozammel Hossain, and M Saidur Rahman. Pairwise Compatibility Graphs. In: Journal of Applied Mathematics and Computing (JAMC) 30.1- 2 (2009), pp. 479–503. [Link]  
 
+#### Refereed Conference Papers
+**[arXiv '16]** KSM Tozammel Hossain†, Huijuan Shao†, Hao Wu, Maleq Khan, Anil Vullikanti, B Aditya Prakash, Madhav Marathe, and Naren Ramakrishnan. Forecasting the Flu: Designing Social Network Sensors for Epidemics. In: arXiv:1602.06866.(2016). (Under review in ACM SIGKDD '2016) [Link]<br/>
+**[AAAI '16]**	KSM Tozammel Hossain†, Mohammad R Islam†, Siddharth Krishnan, and Naren Ramakrishnan. Inferring Multi-dimensional Ideal Points for US Supreme Court Justices. In: Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence (AAAI). 2016. [Acceptance Rate = 26%]<br/>
+**[ICDM ’14]**	KSM Tozammel Hossain† , Liangzhe Chen†, Patrick Butler, Naren Ramakrishnan, and B Aditya Prakash. Flu Gone Viral: Syndromic Surveillance of Flu on Twitter using Temporal Topic Models. In: Proceedings of the 2014 IEEE International Conference on Data Mining. IEEE Computer Society, 2014, pp. 755–760. [Acceptance Rate 142/727 = 19.53%]. [Link]<br/>
+**[BCB ’12]**	KSM Tozammel Hossain, Debprakash Patnaik, Srivatsan Laxman, Prateek Jain, Chris Bailey-Kellogg, and Naren Ramakrishnan. Improved Multiple Sequence Alignments using Coupled Pattern Mining. In: Proceedings of the ACM Conference on Bioinformatics, Computational Biology and Biomedicine. Orlando, Florida: ACM, 2012, pp. 28–35. [Acceptance Rate 33/159 = 20.75%]. [Link]<br/>
+**[BIOKDD ’11]**	KSM Tozammel Hossain, Chris Bailey-Kellogg, Alan M Friedman, Michael J Bradley, Nathan Baker, and Naren Ramakrishnan. Using Physicochemical Properties of Amino Acids to Induce Graphical Models of Residue Couplings. In: Proceedings of the Tenth International Workshop on Data Mining in Bioinformatics. San Diego, California: ACM, 2011, 3:1–3:10. [Link]<br/>
+**[KDD ’10]**	Naren Sundaravaradan, KSM Tozammel Hossain, Vandana Sreedharan, Douglas J Slotta, John Paul Vergara, Lenwood S Heath, and Naren Ramakrishnan. Extracting Temporal Signatures for Comprehending Systems Biology Models. In: Proceedings of the Sixteenth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. Washington, DC, USA: ACM, 2010, pp. 453–462. [Acceptance Rate 77/578 = 13.32%]. [Link]<br/>
+**[WALCOM ’08]**	Muhammad N Yanhaona, KSM Tozammel Hossain, and M Saidur Rahman. Pairwise Compatibility Graphs. In: Proceedings of the Second International Workshop on Algorithms and Computation (WALCOM). Springer, 2008, pp. 222–233. [Acceptance Rate 19/57 = 33.3%]. [Link]<br/>
 
+#### News Article
+**[Conv ’16]**	Mohammad R Islam, KSM Tozammel Hossain, Siddharth Krishnan, and Naren Ramakrishnan. What AI Can Tell Us About the U.S. Supreme Court. In: The Conversation (2016). [This news is also featured on ACM Technews and the Daily Mail, UK.] [link]
 
 ### Contact
+
+* Email: 
+  - tozammel [dot] hossain [at] gmail [dot] com
+  - tozammel [at] vt [dot] edu
+  - tozammel [at] isi [dot] edu
+* LinkedIn: www.linkedin.com/in/tozammel
+* Google Scholar: https://scholar.google.com/tozammel
+* ResearchGate: https://www.researchgate.net/profile/K_S_M_Tozammel_Hossain
+
+
