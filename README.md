@@ -83,9 +83,9 @@ I worked on the project Computational Modeling of Gene Silencing for one year (A
 
 #### Refereed Journal Papers
 
-**[DAMI '15]**	Liangzhe Chen, KSM Tozammel Hossain, Patrick Butler, Naren Ramakrishnan, and B Aditya Prakash. Syndromic Surveillance of Flu on Twitter using Weakly Supervised Temporal Topic Models. In: Data Mining and Knowledge Discovery (DAMI) (2015), pp. 1–30. [Link]
-**[TCBB '13]**	KSM Tozammel Hossain, Debprakash Patnaik, Srivatsan Laxman, Prateek Jain, Chris Bailey-Kellogg, and Naren Ramakrishnan. Improved Multiple Sequence Alignments using Coupled Pattern Mining. In: IEEE/ACM Transactions on Computational Biology and Bioinformatics 10.5 (Sept. 2013), pp. 1098–1112. [Link]
-**[JAMC ’09]**	Muhammad N Yanhaona, KSM Tozammel Hossain, and M Saidur Rahman. Pairwise Compatibility Graphs. In: Journal of Applied Mathematics and Computing (JAMC) 30.1- 2 (2009), pp. 479–503. [Link]
+**[DAMI '15]**	Liangzhe Chen, KSM Tozammel Hossain, Patrick Butler, Naren Ramakrishnan, and B Aditya Prakash. Syndromic Surveillance of Flu on Twitter using Weakly Supervised Temporal Topic Models. In: Data Mining and Knowledge Discovery (DAMI) (2015), pp. 1–30. [Link]  
+**[TCBB '13]**	KSM Tozammel Hossain, Debprakash Patnaik, Srivatsan Laxman, Prateek Jain, Chris Bailey-Kellogg, and Naren Ramakrishnan. Improved Multiple Sequence Alignments using Coupled Pattern Mining. In: IEEE/ACM Transactions on Computational Biology and Bioinformatics 10.5 (Sept. 2013), pp. 1098–1112. [Link]  
+**[JAMC ’09]**	Muhammad N Yanhaona, KSM Tozammel Hossain, and M Saidur Rahman. Pairwise Compatibility Graphs. In: Journal of Applied Mathematics and Computing (JAMC) 30.1- 2 (2009), pp. 479–503. [Link]  
 
 
 
