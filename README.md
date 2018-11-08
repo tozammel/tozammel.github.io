@@ -51,9 +51,15 @@ I obtained my B.Sc. degree in Computer Science & Engineering in the Department o
 
 ### Experience
 
+* Postdoctoral Research Associate, Information Sciences Institute, University of Southern California, Oct 2016–to date
+* Research Assistant, Discovery Analytics Center, Virginia Tech, Jun 2013–May 2014; Jun 2015–Aug 2016
+* Research Assistant, SoftLab, Virginia Tech, Aug 2010–May 2013
+* Research Assistant, Bioinformatics Lab, Virginia Tech, Jan 2010–Aug 2010
+* Teaching Assistant, Dept. of CS, Virginia Tech, Aug 2009–Dec 2009; Aug 2014–May 2015
+* Software Engineer, Commlink Info Tech Ltd., Dhaka, Bangladesh, Jun 2007–Jul 2009
 
 ### Research 
-
+Some of the selected projects that I am either working or had been working on is listed below. 
 
 ### Publications
 
