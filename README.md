@@ -83,14 +83,12 @@ I worked on the project Computational Modeling of Gene Silencing for one year (A
 
 #### Refereed Journal Papers
 **[JDMS '18]** KSM Tozammel Hossain, Shuyang Gao, Brendan Kennedy, Aram Galstyan, and Prem Natarajan. “Forecasting violent events in the Middle East and North Africa using HMM and regularized autoregressive models”. In: Journal of Defense Modeling and Simulation (2018). [Accepted].<br/>
-**[TKDE '18]** KSM Tozammel Hossain, Hrayr Harutyunyan, Yue Ning, Brendan Kennedy, Naren Ra- makrishnan, and Aram Galstyan. “Identifying Event Precursors using Attention-based LSTMs”. In: 2018. [Under review in TKDE].<br/>
 **[DAMI '15]**	Liangzhe Chen, KSM Tozammel Hossain, Patrick Butler, Naren Ramakrishnan, and B Aditya Prakash. Syndromic Surveillance of Flu on Twitter using Weakly Supervised Temporal Topic Models. In: Data Mining and Knowledge Discovery (DAMI) (2015), pp. 1–30. [Link]<br/>
 **[TCBB '13]**	KSM Tozammel Hossain, Debprakash Patnaik, Srivatsan Laxman, Prateek Jain, Chris Bailey-Kellogg, and Naren Ramakrishnan. Improved Multiple Sequence Alignments using Coupled Pattern Mining. In: IEEE/ACM Transactions on Computational Biology and Bioinformatics 10.5 (Sept. 2013), pp. 1098–1112. [Link]<br/>
 **[JAMC ’09]**	Muhammad N Yanhaona, KSM Tozammel Hossain, and M Saidur Rahman. Pairwise Compatibility Graphs. In: Journal of Applied Mathematics and Computing (JAMC) 30.1- 2 (2009), pp. 479–503. [Link]  
 
 #### Refereed Conference Papers
-**[epiDAMIK ’18]** Huijuan Shao†, KSM Tozammel Hossain†, Hao Wu, Maleq Khan, Anil Vullikanti, B Aditya Prakash, Madhav Marathe, and Naren Ramakrishnan. “Forecasting the Flu: Designing So- cial Network Sensors for Epidemics”. In: Proceedings of the ACM SIGKDD Workshop on Epidemiology meets Data Mining and Knowledge Discovery. 2018.<br/>
-**[arXiv '16]** KSM Tozammel Hossain†, Huijuan Shao†, Hao Wu, Maleq Khan, Anil Vullikanti, B Aditya Prakash, Madhav Marathe, and Naren Ramakrishnan. Forecasting the Flu: Designing Social Network Sensors for Epidemics. In: arXiv:1602.06866.(2016). (Under review in ACM SIGKDD '2016) [Link]<br/>
+**[epiDAMIK ’18]** Huijuan Shao<sup>†</sup>, KSM Tozammel Hossain<sup>†</sup>, Hao Wu, Maleq Khan, Anil Vullikanti, B Aditya Prakash, Madhav Marathe, and Naren Ramakrishnan. “Forecasting the Flu: Designing So- cial Network Sensors for Epidemics”. In: Proceedings of the ACM SIGKDD Workshop on Epidemiology meets Data Mining and Knowledge Discovery. 2018.<br/>
 **[AAAI '16]**	KSM Tozammel Hossain†, Mohammad R Islam†, Siddharth Krishnan, and Naren Ramakrishnan. Inferring Multi-dimensional Ideal Points for US Supreme Court Justices. In: Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence (AAAI). 2016. [Acceptance Rate = 26%]<br/>
 **[ICDM ’14]**	KSM Tozammel Hossain† , Liangzhe Chen†, Patrick Butler, Naren Ramakrishnan, and B Aditya Prakash. Flu Gone Viral: Syndromic Surveillance of Flu on Twitter using Temporal Topic Models. In: Proceedings of the 2014 IEEE International Conference on Data Mining. IEEE Computer Society, 2014, pp. 755–760. [Acceptance Rate 142/727 = 19.53%]. [Link]<br/>
 **[BCB ’12]**	KSM Tozammel Hossain, Debprakash Patnaik, Srivatsan Laxman, Prateek Jain, Chris Bailey-Kellogg, and Naren Ramakrishnan. Improved Multiple Sequence Alignments using Coupled Pattern Mining. In: Proceedings of the ACM Conference on Bioinformatics, Computational Biology and Biomedicine. Orlando, Florida: ACM, 2012, pp. 28–35. [Acceptance Rate 33/159 = 20.75%]. [Link]<br/>
@@ -101,6 +99,18 @@ I worked on the project Computational Modeling of Gene Silencing for one year (A
 #### News Article
 **[Health ’16]** Anonymous. “Study Data from Virginia Tech Update Understanding of Epidemiology”. In: Health & Medicine Week (2016). Atlanta, 29 Apr 2016:5537.<br/>
 **[Conv ’16]**	Mohammad R Islam, KSM Tozammel Hossain, Siddharth Krishnan, and Naren Ramakrishnan. What AI Can Tell Us About the U.S. Supreme Court. In: The Conversation (2016). [This news is also featured on ACM Technews and the Daily Mail, UK.] [link]
+
+#### Under Review
+**[TKDE '19]** KSM Tozammel Hossain, Hrayr Harutyunyan, Yue Ning, Brendan Kennedy, Naren Ra- makrishnan, and Aram Galstyan. “Identifying Event Precursors using Attention-based LSTMs”. 2019. [Under review in TKDE].<br/>
+**[Plos One '10]** Palash†Goyal,KSM Tozammel Hossain†,  Ashok  Deb,  Nazgol  Tavabi,  Nathan  Bartley,Andr’es Abeliuk, Emilio Ferrara, and Kristina Lerman. Discovering Signals from Web Sourcesto Predict Cyber Attacks. In:arXiv preprint arXiv:1806.03342(2019). [Under review in Plos One].<br/>
+**[ICML Workshop 19]** Mehrnoosh Mirtaheri, KSM Tozammel Hossain, Fred Morstatter, and Aram Galstyan. Tensor-based Method for Temporal Geopolitical Event Forecasting. [Under review in TKDE].<br/>
+**[IJCAI Demo]** Fred Morstatter et al. SAGE: A Hybrid Geopolitical Event Forecasting System. 2019. [Under review in IJCAI Demo].<br/>
+
+#### In Preparation
+
+#### Archived
+**[arXiv '16]** KSM Tozammel Hossain†, Huijuan Shao†, Hao Wu, Maleq Khan, Anil Vullikanti, B Aditya Prakash, Madhav Marathe, and Naren Ramakrishnan. Forecasting the Flu: Designing Social Network Sensors for Epidemics. In: arXiv:1602.06866.(2016). (Published in ACM SIGKDD Workshop epiDAMIK '2018) [Link]<br/>
+
 
 ### Contact
 
