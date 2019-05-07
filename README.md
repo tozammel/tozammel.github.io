@@ -105,9 +105,10 @@ I worked on the project Computational Modeling of Gene Silencing for one year (A
 ### Contact
 
 * Email: 
-  - tozammel [dot] hossain [at] gmail [dot] com
-  - tozammel [at] vt [dot] edu
   - tozammel [at] isi [dot] edu
+  - tozammel [dot] hossain [at] gmail [dot] com
+  <!--- - tozammel [at] vt [dot] edu --->
+  
 * LinkedIn: www.linkedin.com/in/tozammel
 * Google Scholar: https://scholar.google.com/tozammel
 * ResearchGate: https://www.researchgate.net/profile/K_S_M_Tozammel_Hossain
