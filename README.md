@@ -60,6 +60,12 @@ I obtained my B.Sc. degree in Computer Science & Engineering in the Department o
 
 ### Publications
 
+#### News Coverage
+**[Health ’16]** Anonymous. “Study Data from Virginia Tech Update Understanding of Epidemiology”. In: Health & Medicine Week (2016). Atlanta, 29 Apr 2016:5537.<br/>
+**[Conv ’16]**	Mohammad R Islam, KSM Tozammel Hossain, Siddharth Krishnan, and Naren Ramakrishnan. What AI Can Tell Us About the U.S. Supreme Court. In: The Conversation (2016). [This news is also featured on ACM Technews and the Daily Mail, UK.] [link]
+#### Invited Talk
+**[INFORMS ’17]** KSM Tozammel Hossain, Greg Ver Steeg, and Aram Galstyan.Identifying latent structuresin human performance data using CorEx. INFORMS 2017.
+
 #### Refereed Journal Papers
 **[JDMS '18]** KSM Tozammel Hossain, Shuyang Gao, Brendan Kennedy, Aram Galstyan, and Prem Natarajan. “Forecasting violent events in the Middle East and North Africa using HMM and regularized autoregressive models”. In: Journal of Defense Modeling and Simulation (2018). [Accepted].<br/>
 **[DAMI '15]**	Liangzhe Chen, KSM Tozammel Hossain, Patrick Butler, Naren Ramakrishnan, and B Aditya Prakash. Syndromic Surveillance of Flu on Twitter using Weakly Supervised Temporal Topic Models. In: Data Mining and Knowledge Discovery (DAMI) (2015), pp. 1–30. [Link]<br/>
@@ -75,14 +81,11 @@ I obtained my B.Sc. degree in Computer Science & Engineering in the Department o
 **[KDD ’10]**	Naren Sundaravaradan, KSM Tozammel Hossain, Vandana Sreedharan, Douglas J Slotta, John Paul Vergara, Lenwood S Heath, and Naren Ramakrishnan. Extracting Temporal Signatures for Comprehending Systems Biology Models. In: Proceedings of the Sixteenth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. Washington, DC, USA: ACM, 2010, pp. 453–462. [Acceptance Rate 77/578 = 13.32%]. [Link]<br/>
 **[WALCOM ’08]**	Muhammad N Yanhaona, KSM Tozammel Hossain, and M Saidur Rahman. Pairwise Compatibility Graphs. In: Proceedings of the Second International Workshop on Algorithms and Computation (WALCOM). Springer, 2008, pp. 222–233. [Acceptance Rate 19/57 = 33.3%]. [Link]<br/>
 
-#### News Article
-**[Health ’16]** Anonymous. “Study Data from Virginia Tech Update Understanding of Epidemiology”. In: Health & Medicine Week (2016). Atlanta, 29 Apr 2016:5537.<br/>
-**[Conv ’16]**	Mohammad R Islam, KSM Tozammel Hossain, Siddharth Krishnan, and Naren Ramakrishnan. What AI Can Tell Us About the U.S. Supreme Court. In: The Conversation (2016). [This news is also featured on ACM Technews and the Daily Mail, UK.] [link]
 
 #### Under Review
 **[TKDE '19]** KSM Tozammel Hossain, Hrayr Harutyunyan, Yue Ning, Brendan Kennedy, Naren Ra- makrishnan, and Aram Galstyan. “Identifying Event Precursors using Attention-based LSTMs”. 2019. [Under review in TKDE].<br/>
 **[Plos One '10]** Palash†Goyal,KSM Tozammel Hossain†,  Ashok  Deb,  Nazgol  Tavabi,  Nathan  Bartley,Andr’es Abeliuk, Emilio Ferrara, and Kristina Lerman. Discovering Signals from Web Sourcesto Predict Cyber Attacks. In:arXiv preprint arXiv:1806.03342(2019). [Under review in Plos One].<br/>
-**[ICML Workshop 19]** Mehrnoosh Mirtaheri, KSM Tozammel Hossain, Fred Morstatter, and Aram Galstyan. Tensor-based Method for Temporal Geopolitical Event Forecasting. [Under review in TKDE].<br/>
+**[ICML Workshop 19]** Mehrnoosh Mirtaheri, KSM Tozammel Hossain, Fred Morstatter, and Aram Galstyan. Tensor-based Method for Temporal Geopolitical Event Forecasting. [Under review in ICML Workshop].<br/>
 **[IJCAI Demo]** Fred Morstatter et al. SAGE: A Hybrid Geopolitical Event Forecasting System. 2019. [Under review in IJCAI Demo].<br/>
 
 <!--- #### In Preparation --->
