@@ -84,9 +84,9 @@ I obtained my B.Sc. degree in Computer Science & Engineering in the Department o
 
 #### Under Review
 **[TKDE '19]** KSM Tozammel Hossain, Hrayr Harutyunyan, Yue Ning, Brendan Kennedy, Naren Ra- makrishnan, and Aram Galstyan. “Identifying Event Precursors using Attention-based LSTMs”. 2019. [Under review in TKDE].<br/>
-**[Plos One '10]** Palash†Goyal,KSM Tozammel Hossain†,  Ashok  Deb,  Nazgol  Tavabi,  Nathan  Bartley,Andr’es Abeliuk, Emilio Ferrara, and Kristina Lerman. Discovering Signals from Web Sourcesto Predict Cyber Attacks. In:arXiv preprint arXiv:1806.03342(2019). [Under review in Plos One].<br/>
+**[Plos One '19]** Palash†Goyal,KSM Tozammel Hossain†,  Ashok  Deb,  Nazgol  Tavabi,  Nathan  Bartley,Andr’es Abeliuk, Emilio Ferrara, and Kristina Lerman. Discovering Signals from Web Sourcesto Predict Cyber Attacks. In:arXiv preprint arXiv:1806.03342(2019). [Under review in Plos One].<br/>
 **[ICML Workshop 19]** Mehrnoosh Mirtaheri, KSM Tozammel Hossain, Fred Morstatter, and Aram Galstyan. Tensor-based Method for Temporal Geopolitical Event Forecasting. [Under review in ICML Workshop].<br/>
-**[IJCAI Demo]** Fred Morstatter et al. SAGE: A Hybrid Geopolitical Event Forecasting System. 2019. [Under review in IJCAI Demo].<br/>
+**[IJCAI Demo 19]** Fred Morstatter et al. SAGE: A Hybrid Geopolitical Event Forecasting System. 2019. [Under review in IJCAI Demo].<br/>
 
 <!--- #### In Preparation --->
 
