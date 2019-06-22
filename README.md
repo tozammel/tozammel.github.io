@@ -117,6 +117,7 @@ In some important financial and scientific domains, features are best interprete
 #### Computational Modeling of Gene Silencing
 I worked on the project Computational Modeling of Gene Silencing for one year (Aug 2009 to Jun 2010). The goal of the project was to construct models of the gene silencing phenomenon for the microscopic worm Caenorhabditis Elegans. My responsibility was to improve the data integration and annotation part of the model. Moreover, I performed data analysis by applying compositional data mining, a new tool developed in the computer science department, to retrieve interesting and informative patterns from the data. This project had been running for six years and ended successfully on June 2010. This Dr. Lenwood S. Heath and Dr. Naren Ramakrishnan supervised me for this project.
 
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fgithub.com%2Ftozammel%2Ftozammel.github.io%2Fblob%2Fmaster%2Fmypaper.bib&jsonp=1"></script>
 
 ### Contact
 
