@@ -123,7 +123,7 @@ I worked on the project Computational Modeling of Gene Silencing for one year (A
 ### Contact
 
 * Email: 
-  - tozammel [at] isi [dot] edu
+  - hossaink [at] missouri [dot] edu
   - tozammel [dot] hossain [at] gmail [dot] com
   <!--- - tozammel [at] vt [dot] edu --->
   
