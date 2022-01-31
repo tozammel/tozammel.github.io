@@ -34,7 +34,7 @@ My name is Tozammel Hossain. Currently I am working as an Assistant Research Pro
 
 My research interests broadly lie in developing and applying data mining and machine learning techniques to solve problems stemming from bioinformatics, social networks, social science, and cyber security. I enjoy working at the boundaries between the data science and domain sciences. Some of my recent research addresses problems of inferring coevolving entities with interaction structure in complex systems, forecasting societal population and/or enterprise level events (like flu outbreak, military/non-state actor events, and malicious cyber activities), and modeling behavior, such as prejudice and ideological leanings, in social systems.    
 
-My career goal is to solve challenging problems in the area of data mining and machine learning. 
+My career goal is to solve challenging problems in machine learning and data science. 
 
 <!--- **Bold** and _Italic_ and `Code` text [Link](url) and ![Image](src) --->
 
@@ -42,7 +42,7 @@ My career goal is to solve challenging problems in the area of data mining and m
 
 ### Virginia Tech
 
-I earned my doctoral degree in the Department of Computer Science at Virginia Tech. I performed my research in the Discovery Analytics Center led by Dr. Naren Ramakrishnan. My thesis was in the area of bioinformatics, specifically on modeling evolutionary constraints and improving multiple sequence alignments using couplings. I received a masters degree from the same department in 2014.
+I earned my doctoral degree in the Department of Computer Science at Virginia Tech. I conducted my research in the Discovery Analytics Center led by Dr. Naren Ramakrishnan. My thesis was in the area of bioinformatics, specifically on modeling evolutionary constraints and improving multiple sequence alignments using couplings. I received a masters degree from the same department in 2014.
 
 <!---I am pursuing a doctoral degree in the Department of Computer Science at Virginia Tech. I am working in the Discovery Analytics Center led by Dr. Naren Ramakrishnan. I plan to finish my doctoral degree by Jul 2016. My thesis is Couplings for Modeling Evolutionary Constraints and Improving Multiple Sequence Alignments. I received a masters degree from the same department in 2014.  Currently, I am working on the projects Protein Constraints Modeling, Social Network Sensors, and Supreme Court Ideal Points Miner. I also worked on other projects: Hidden Topic Ailment State Model and Feature Selection in Rank-Order Space. During my course of Ph.D. study, I took courses in the area of machine learning, data mining, statistics, and bioinformatics. --->
 
@@ -53,7 +53,8 @@ I obtained my B.Sc. degree in Computer Science & Engineering in the Department o
 
 ### Experience
 
-* Postdoctoral Research Associate, Information Sciences Institute, University of Southern California, Oct 2016–to date
+* Assistant Research Professor, Institute for Data Science & Informatics, Oct 2019–To Date
+* Postdoctoral Research Associate, Information Sciences Institute, University of Southern California, Oct 2016–Sep, 2019
 * Research Assistant, Discovery Analytics Center, Virginia Tech, Jun 2013–May 2014; Jun 2015–Aug 2016
 * Research Assistant, SoftLab, Virginia Tech, Aug 2010–May 2013
 * Research Assistant, Bioinformatics Lab, Virginia Tech, Jan 2010–Aug 2010
