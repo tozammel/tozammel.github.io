@@ -28,7 +28,7 @@ plugins:
 
 ## About Me
 
-My name is Tozammel Hossain. I am currently an assistant research professor at the MU Institute for Data Science Informatics (MUIDSI). I also serve as a director of graduate studies for the Data Science and Analytics Program (DSA) at the same institute. Earlier I received my PhD in computer science at Virginia Tech, and earned three years of experience as a postdoctoral associate at the University of Southern California-Information Sciences Institute (USC-ISI).
+My name is Tozammel Hossain. I am currently an assistant research professor at the MU Institute for Data Science Informatics (MUIDSI). I also serve as a director of graduate studies for the Data Science and Analytics Program (DSA) at the same institute. I am also affiliated with the MU EECS department. Earlier I received my PhD in computer science at Virginia Tech, and earned three years of experience as a postdoctoral associate at the University of Southern California-Information Sciences Institute (USC-ISI).
 
 <!---I am an Assitant Research Professor at the Unversity of Missour-Institute for Data Science and Informatics. EarlI am a postdoctoral research associate at the University of Southern California - [Information Sciences Institue (ISI)](https://www.isi.edu/). I earned my doctoral degree in computer science at [Virginia Tech]().<!---, where I worked under the supervision of [Dr. Naren Ramakrishnan](http://people.cs.vt.edu/~ramakris/) at [Discovery Analytics Center](https://dac.cs.vt.edu/). --->  
 
@@ -64,6 +64,10 @@ I obtained my B.Sc. degree in Computer Science & Engineering in the Department o
 * Teaching Assistant, Dept. of CS, Virginia Tech, Aug 2009–Dec 2009; Aug 2014–May 2015
 * Software Engineer, Commlink Info Tech Ltd., Dhaka, Bangladesh, Jun 2007–Jul 2009
 
+
+### External Grants
+* Agroforestry for Climate Risk Management: Effectiveness of Windbreaks in Reducing Crop Loss In Mid- west, USA; USDA - NIFA DSFAS Program (Jan, 2022 - Dec, 2024)
+
 ### Publications
 
 #### News Coverage
@@ -73,12 +77,16 @@ I obtained my B.Sc. degree in Computer Science & Engineering in the Department o
 **[INFORMS ’17]** KSM Tozammel Hossain, Greg Ver Steeg, and Aram Galstyan.Identifying latent structuresin human performance data using CorEx. INFORMS 2017.
 
 #### Refereed Journal Papers
+**[AS '21]** Prayitno, Chi-Ren Shyu, Karisma Trinanda Putra, Hsing-Chung Chen, Yuan-Yu Tsai, KSM Tozammel Hossain, Wei Jiang, and Zon-Yin Shae. “A Systematic Review of Federated Learning in the Healthcare Area: from the perspective of Data Properties and Applica- tions”. In: Applied Science (2021).
+**[JBA '21]** Abu S M Mosa, Chalermpon Thongmotai, Humayera Islam, Tanmoy Pal, KSM Tozam- mel Hossain, and Vasanthi Mandhadi. “Evaluation of Machine Learning Applications using Real-World EHR Data for Predicting Diabetes-Related Long-Term Complications”. In: Journal of Business Analytics (2021), pp. 1–11.
 **[JDMS '18]** KSM Tozammel Hossain, Shuyang Gao, Brendan Kennedy, Aram Galstyan, and Prem Natarajan. “Forecasting violent events in the Middle East and North Africa using HMM and regularized autoregressive models”. In: Journal of Defense Modeling and Simulation (2018). [Accepted].<br/>
 **[DAMI '15]**	Liangzhe Chen, KSM Tozammel Hossain, Patrick Butler, Naren Ramakrishnan, and B Aditya Prakash. Syndromic Surveillance of Flu on Twitter using Weakly Supervised Temporal Topic Models. In: Data Mining and Knowledge Discovery (DAMI) (2015), pp. 1–30. [Link]<br/>
 **[TCBB '13]**	KSM Tozammel Hossain, Debprakash Patnaik, Srivatsan Laxman, Prateek Jain, Chris Bailey-Kellogg, and Naren Ramakrishnan. Improved Multiple Sequence Alignments using Coupled Pattern Mining. In: IEEE/ACM Transactions on Computational Biology and Bioinformatics 10.5 (Sept. 2013), pp. 1098–1112. [Link]<br/>
 **[JAMC ’09]**	Muhammad N Yanhaona, KSM Tozammel Hossain, and M Saidur Rahman. Pairwise Compatibility Graphs. In: Journal of Applied Mathematics and Computing (JAMC) 30.1- 2 (2009), pp. 479–503. [Link]  
 
 #### Refereed Conference Papers
+**[ICML WS ’19]** Mehrnoosh Mirtaheri, Sami Abu-El-Haija, KSM Tozammel Hossain, Fred Morstatter, and Aram Galstyan. “Tensor-based Method for Temporal Geopolitical Event Forecasting”. In: ICML Workshop. 2019.
+**[IJCAI Demo ’19]** Fred Morstatter, Aram Galstyan, and Gleb Satyukov et al. “SAGE: A Hybrid Geopolitical Event Forecasting System”. In: IJCAI Demo. 2019.
 **[epiDAMIK ’18]** Huijuan Shao<sup>†</sup>, KSM Tozammel Hossain<sup>†</sup>, Hao Wu, Maleq Khan, Anil Vullikanti, B Aditya Prakash, Madhav Marathe, and Naren Ramakrishnan. “Forecasting the Flu: Designing So- cial Network Sensors for Epidemics”. In: Proceedings of the ACM SIGKDD Workshop on Epidemiology meets Data Mining and Knowledge Discovery. 2018.<br/>
 **[AAAI '16]**	Mohammad R Islam<sup>†</sup>, KSM Tozammel Hossain<sup>†</sup>,  Siddharth Krishnan, and Naren Ramakrishnan. Inferring Multi-dimensional Ideal Points for US Supreme Court Justices. In: Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence (AAAI). 2016. [Acceptance Rate = 26%]<br/>
 **[ICDM ’14]**	Liangzhe Chen<sup>†</sup>, KSM Tozammel Hossain<sup>†</sup>,  Patrick Butler, Naren Ramakrishnan, and B Aditya Prakash. Flu Gone Viral: Syndromic Surveillance of Flu on Twitter using Temporal Topic Models. In: Proceedings of the 2014 IEEE International Conference on Data Mining. IEEE Computer Society, 2014, pp. 755–760. [Acceptance Rate 142/727 = 19.53%]. [Link]<br/>
@@ -89,10 +97,16 @@ I obtained my B.Sc. degree in Computer Science & Engineering in the Department o
 
 
 #### Under Review
-**[TKDE '19]** KSM Tozammel Hossain, Hrayr Harutyunyan, Yue Ning, Brendan Kennedy, Naren Ra- makrishnan, and Aram Galstyan. “Identifying Event Precursors using Attention-based LSTMs”. 2019. [Under review in TKDE].<br/>
+**[AMIA '22]** Lokesh Karanam, Kun Yi, Zon-Yin Shae, David Chang, Chi-Ren Shyu, and K S M Tozammel Hossain. “Continuous Anticipation of AKI in the ICU using Time-Gated LSTMs”. In: 2022. [Under review in the AMIA 2022 Clinical Informatics Conference]
+**[FAI '22]** KSM Tozammel Hossain, Hrayr Harutyunyan, Yue Ning, Brendan Kennedy, Naren Ramakrishnan, and Aram Galstyan. “Identifying Event Precursors using Attention-based LSTMs”. In: (2022). [Under Review in Frontiers in Artificial Intelligence].
+**[WCA '22]** Bhuwan Thapa, Sarah Lovell, Zhen Cai, K S M Tozammel Hossain, and Mi Young Kwon. “Agroforestry for Climate Risk Management: Effectiveness of Windbreaks in Reducing Crop Loss in the Midwest, USA”. In: 2022. [Under review in the 5th World Congress on Agroforestry].
+
+<!--- 
+**[TKDE '19]** KSM Tozammel Hossain, Hrayr Harutyunyan, Yue Ning, Brendan Kennedy, Naren Ramakrishnan, and Aram Galstyan. “Identifying Event Precursors using Attention-based LSTMs”. 2019. [Under review in TKDE].<br/>
 **[Plos One '19]** Palash†Goyal,KSM Tozammel Hossain†,  Ashok  Deb,  Nazgol  Tavabi,  Nathan  Bartley,Andr’es Abeliuk, Emilio Ferrara, and Kristina Lerman. Discovering Signals from Web Sourcesto Predict Cyber Attacks. In:arXiv preprint arXiv:1806.03342(2019). [Under review in Plos One].<br/>
 **[ICML Workshop 19]** Mehrnoosh Mirtaheri, KSM Tozammel Hossain, Fred Morstatter, and Aram Galstyan. Tensor-based Method for Temporal Geopolitical Event Forecasting. [Under review in ICML Workshop].<br/>
 **[IJCAI Demo 19]** Fred Morstatter et al. SAGE: A Hybrid Geopolitical Event Forecasting System. 2019. [Under review in IJCAI Demo].<br/>
+--->
 
 <!--- #### In Preparation --->
 
