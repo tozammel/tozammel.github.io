@@ -85,8 +85,8 @@ I obtained my B.Sc. degree in Computer Science & Engineering in the Department o
 **[JAMC ’09]**	Muhammad N Yanhaona, KSM Tozammel Hossain, and M Saidur Rahman. Pairwise Compatibility Graphs. In: Journal of Applied Mathematics and Computing (JAMC) 30.1- 2 (2009), pp. 479–503. [Link]  
 
 #### Refereed Conference Papers
-**[ICML WS ’19]** Mehrnoosh Mirtaheri, Sami Abu-El-Haija, KSM Tozammel Hossain, Fred Morstatter, and Aram Galstyan. “Tensor-based Method for Temporal Geopolitical Event Forecasting”. In: ICML Workshop. 2019.
-**[IJCAI Demo ’19]** Fred Morstatter, Aram Galstyan, and Gleb Satyukov et al. “SAGE: A Hybrid Geopolitical Event Forecasting System”. In: IJCAI Demo. 2019.
+**[ICML WS ’19]** Mehrnoosh Mirtaheri, Sami Abu-El-Haija, KSM Tozammel Hossain, Fred Morstatter, and Aram Galstyan. “Tensor-based Method for Temporal Geopolitical Event Forecasting”. In: ICML Workshop. 2019.<br/>
+**[IJCAI Demo ’19]** Fred Morstatter, Aram Galstyan, and Gleb Satyukov et al. “SAGE: A Hybrid Geopolitical Event Forecasting System”. In: IJCAI Demo. 2019.<br/>
 **[epiDAMIK ’18]** Huijuan Shao<sup>†</sup>, KSM Tozammel Hossain<sup>†</sup>, Hao Wu, Maleq Khan, Anil Vullikanti, B Aditya Prakash, Madhav Marathe, and Naren Ramakrishnan. “Forecasting the Flu: Designing So- cial Network Sensors for Epidemics”. In: Proceedings of the ACM SIGKDD Workshop on Epidemiology meets Data Mining and Knowledge Discovery. 2018.<br/>
 **[AAAI '16]**	Mohammad R Islam<sup>†</sup>, KSM Tozammel Hossain<sup>†</sup>,  Siddharth Krishnan, and Naren Ramakrishnan. Inferring Multi-dimensional Ideal Points for US Supreme Court Justices. In: Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence (AAAI). 2016. [Acceptance Rate = 26%]<br/>
 **[ICDM ’14]**	Liangzhe Chen<sup>†</sup>, KSM Tozammel Hossain<sup>†</sup>,  Patrick Butler, Naren Ramakrishnan, and B Aditya Prakash. Flu Gone Viral: Syndromic Surveillance of Flu on Twitter using Temporal Topic Models. In: Proceedings of the 2014 IEEE International Conference on Data Mining. IEEE Computer Society, 2014, pp. 755–760. [Acceptance Rate 142/727 = 19.53%]. [Link]<br/>
@@ -97,8 +97,8 @@ I obtained my B.Sc. degree in Computer Science & Engineering in the Department o
 
 
 #### Under Review
-**[AMIA '22]** Lokesh Karanam, Kun Yi, Zon-Yin Shae, David Chang, Chi-Ren Shyu, and K S M Tozammel Hossain. “Continuous Anticipation of AKI in the ICU using Time-Gated LSTMs”. In: 2022. [Under review in the AMIA 2022 Clinical Informatics Conference]
-**[FAI '22]** KSM Tozammel Hossain, Hrayr Harutyunyan, Yue Ning, Brendan Kennedy, Naren Ramakrishnan, and Aram Galstyan. “Identifying Event Precursors using Attention-based LSTMs”. In: (2022). [Under Review in Frontiers in Artificial Intelligence].
+**[AMIA '22]** Lokesh Karanam, Kun Yi, Zon-Yin Shae, David Chang, Chi-Ren Shyu, and K S M Tozammel Hossain. “Continuous Anticipation of AKI in the ICU using Time-Gated LSTMs”. In: 2022. [Under review in the AMIA 2022 Clinical Informatics Conference]<br/>
+**[FAI '22]** KSM Tozammel Hossain, Hrayr Harutyunyan, Yue Ning, Brendan Kennedy, Naren Ramakrishnan, and Aram Galstyan. “Identifying Event Precursors using Attention-based LSTMs”. In: (2022). [Under Review in Frontiers in Artificial Intelligence]<br/>
 **[WCA '22]** Bhuwan Thapa, Sarah Lovell, Zhen Cai, K S M Tozammel Hossain, and Mi Young Kwon. “Agroforestry for Climate Risk Management: Effectiveness of Windbreaks in Reducing Crop Loss in the Midwest, USA”. In: 2022. [Under review in the 5th World Congress on Agroforestry].
 
 <!--- 
@@ -111,7 +111,7 @@ I obtained my B.Sc. degree in Computer Science & Engineering in the Department o
 <!--- #### In Preparation --->
 
 #### Archived
-**[arXiv '18]** Florian Quinkert, Thorsten Holz,KSM Tozammel Hossain, Emilio Ferrara, and KristinaLerman. “RAPTOR: Ransomware Attack PredicTOR”. In:arXiv preprint arXiv:1803.01598 (2018).
+**[arXiv '18]** Florian Quinkert, Thorsten Holz,KSM Tozammel Hossain, Emilio Ferrara, and KristinaLerman. “RAPTOR: Ransomware Attack PredicTOR”. In:arXiv preprint arXiv:1803.01598 (2018).<br/>
 **[arXiv '16]** KSM Tozammel Hossain†, Huijuan Shao†, Hao Wu, Maleq Khan, Anil Vullikanti, B Aditya Prakash, Madhav Marathe, and Naren Ramakrishnan. Forecasting the Flu: Designing Social Network Sensors for Epidemics. In: arXiv:1602.06866.(2016). (Published in ACM SIGKDD Workshop epiDAMIK '2018) [Link]<br/>
 
 
