@@ -32,9 +32,12 @@ My name is Tozammel Hossain. I am currently an assistant research professor at t
 
 <!---I am an Assitant Research Professor at the Unversity of Missour-Institute for Data Science and Informatics. EarlI am a postdoctoral research associate at the University of Southern California - [Information Sciences Institue (ISI)](https://www.isi.edu/). I earned my doctoral degree in computer science at [Virginia Tech]().<!---, where I worked under the supervision of [Dr. Naren Ramakrishnan](http://people.cs.vt.edu/~ramakris/) at [Discovery Analytics Center](https://dac.cs.vt.edu/). --->  
 
-My research interests broadly lie in developing and applying data mining and machine learning techniques to solve problems stemming from bioinformatics, social networks, social science, and cyber security. I enjoy working at the boundaries between the data science and domain sciences. Some of my recent research addresses problems of inferring coevolving entities with interaction structure in complex systems, forecasting societal population and/or enterprise level events (like flu outbreak, military/non-state actor events, and malicious cyber activities), and modeling behavior, such as prejudice and ideological leanings, in social systems.    
+<!---My research interests broadly lie in developing and applying data mining and machine learning techniques to solve problems stemming from bioinformatics, social networks, social science, and cyber security. I enjoy working at the boundaries between the data science and domain sciences. Some of my recent research addresses problems of inferring coevolving entities with interaction structure in complex systems, forecasting societal population and/or enterprise level events (like flu outbreak, military/non-state actor events, and malicious cyber activities), and modeling behavior, such as prejudice and ideological leanings, in social systems.--->  
 
-My career goal is to solve challenging problems in machine learning and data science. 
+My research interests lie in applied machine learning and data science, with an emphasis on bioinformatics, health informatics, social science, and cybersecurity. Key focuses include devising methods for anticipating societal population-level events (e.g., flu outbreak and civil unrest), disease incidence, and cyber-attacks; inferring co-evolving entities and their interactions in complex systems; and modeling state and behavior in social systems (e.g., ideological leanings, polarization, and equity). 
+
+My career goal is to solve challenging problems in machine learning and data science.
+
 
 <!--- **Bold** and _Italic_ and `Code` text [Link](url) and ![Image](src) --->
 
