@@ -64,9 +64,10 @@ I obtained my B.Sc. degree in Computer Science & Engineering in the Department o
 * Teaching Assistant, Dept. of CS, Virginia Tech, Aug 2009–Dec 2009; Aug 2014–May 2015
 * Software Engineer, Commlink Info Tech Ltd., Dhaka, Bangladesh, Jun 2007–Jul 2009
 
-
+<!---
 ### External Grants
 * Agroforestry for Climate Risk Management: Effectiveness of Windbreaks in Reducing Crop Loss In Mid- west, USA; USDA - NIFA DSFAS Program (Jan, 2022 - Dec, 2024)
+--->
 
 ### Publications
 
