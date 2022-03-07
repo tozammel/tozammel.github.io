@@ -86,6 +86,7 @@ I obtained my B.Sc. degree in Computer Science & Engineering in the Department o
 **[JAMC ’09]**	Muhammad N Yanhaona, KSM Tozammel Hossain, and M Saidur Rahman. Pairwise Compatibility Graphs. In: Journal of Applied Mathematics and Computing (JAMC) 30.1- 2 (2009), pp. 479–503. [Link]  
 
 #### Refereed Conference Papers
+**[AMIA '22]** Lokesh Karanam, Kun Yi, Zon-Yin Shae, David Chang, Chi-Ren Shyu, and K S M Tozammel Hossain. “Continuous Anticipation of AKI in the ICU using Time-Gated LSTMs”. In: AMIA 2022 Clinical Informatics Conference. 2022.
 **[ICML WS ’19]** Mehrnoosh Mirtaheri, Sami Abu-El-Haija, KSM Tozammel Hossain, Fred Morstatter, and Aram Galstyan. “Tensor-based Method for Temporal Geopolitical Event Forecasting”. In: ICML Workshop. 2019.<br/>
 **[IJCAI Demo ’19]** Fred Morstatter, Aram Galstyan, and Gleb Satyukov et al. “SAGE: A Hybrid Geopolitical Event Forecasting System”. In: IJCAI Demo. 2019.<br/>
 **[epiDAMIK ’18]** Huijuan Shao<sup>†</sup>, KSM Tozammel Hossain<sup>†</sup>, Hao Wu, Maleq Khan, Anil Vullikanti, B Aditya Prakash, Madhav Marathe, and Naren Ramakrishnan. “Forecasting the Flu: Designing So- cial Network Sensors for Epidemics”. In: Proceedings of the ACM SIGKDD Workshop on Epidemiology meets Data Mining and Knowledge Discovery. 2018.<br/>
