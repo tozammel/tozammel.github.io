@@ -28,7 +28,7 @@ plugins:
 
 ## About Me
 
-My name is Tozammel Hossain. I am currently an assistant research professor at the MU Institute for Data Science Informatics (MUIDSI). I also serve as a director of graduate studies for the Data Science and Analytics Program (DSA) at the same institute. I am also affiliated with the MU EECS department. Earlier I received my PhD in computer science at Virginia Tech, and earned three years of experience as a postdoctoral associate at the University of Southern California-Information Sciences Institute (USC-ISI).
+My name is Tozammel Hossain. I am currently an assistant professor in the Department of Information Science at the University of North Texas. Previously, I was an assistant research professor at the University of Missouri - Institute for Data Science and Informatics. I received my PhD in computer science at Virginia Tech and earned three years of experience as a postdoctoral associate at the University of Southern California-Information Sciences Institute (USC-ISI).
 
 <!---I am an Assitant Research Professor at the Unversity of Missour-Institute for Data Science and Informatics. EarlI am a postdoctoral research associate at the University of Southern California - [Information Sciences Institue (ISI)](https://www.isi.edu/). I earned my doctoral degree in computer science at [Virginia Tech]().<!---, where I worked under the supervision of [Dr. Naren Ramakrishnan](http://people.cs.vt.edu/~ramakris/) at [Discovery Analytics Center](https://dac.cs.vt.edu/). --->  
 
