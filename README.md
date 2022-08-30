@@ -56,7 +56,8 @@ I obtained my B.Sc. degree in Computer Science & Engineering in the Department o
 
 ### Experience
 
-* Assistant Research Professor, Institute for Data Science & Informatics, Oct 2019–To Date
+* Assistant Professor, Dept. of Information Science, University of North Texas, Aug 2022–To Date
+* Assistant Research Professor, Institute for Data Science & Informatics, University of Missouri, Oct 2019–Aug 2022
 * Postdoctoral Research Associate, Information Sciences Institute, University of Southern California, Oct 2016–Sep, 2019
 * Research Assistant, Discovery Analytics Center, Virginia Tech, Jun 2013–May 2014; Jun 2015–Aug 2016
 * Research Assistant, SoftLab, Virginia Tech, Aug 2010–May 2013
