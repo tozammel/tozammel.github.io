@@ -144,7 +144,7 @@ I worked on the project Computational Modeling of Gene Silencing for one year (A
 ### Contact
 
 * Email: 
-  - hossaink [at] missouri [dot] edu
+  - tozammel [dot] hossain [at] unt [dot] edu
   - tozammel [dot] hossain [at] gmail [dot] com
   <!--- - tozammel [at] vt [dot] edu --->
   
