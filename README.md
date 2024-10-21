@@ -73,8 +73,10 @@ I obtained my B.Sc. degree in Computer Science & Engineering in the Department o
 ### Publications
 
 #### News Coverage
+**[MTech. ’24]** Asif Razzaq. “OPEN-RAG: A Novel AI Framework Designed to Enhance Reasoning Capa-bilities in RAG with Open-Source LLMs”. In: Marktechpost (2024).<br/>
 **[Health ’16]** Anonymous. “Study Data from Virginia Tech Update Understanding of Epidemiology”. In: Health & Medicine Week (2016). Atlanta, 29 Apr 2016:5537.<br/>
 **[Conv ’16]**	Mohammad R Islam, KSM Tozammel Hossain, Siddharth Krishnan, and Naren Ramakrishnan. What AI Can Tell Us About the U.S. Supreme Court. In: The Conversation (2016). [This news is also featured on ACM Technews and the Daily Mail, UK.] [link]
+
 #### Invited Talk
 **[INFORMS ’17]** KSM Tozammel Hossain, Greg Ver Steeg, and Aram Galstyan.Identifying latent structuresin human performance data using CorEx. INFORMS 2017.
 
