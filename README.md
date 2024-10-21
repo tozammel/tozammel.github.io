@@ -73,9 +73,9 @@ I obtained my B.Sc. degree in Computer Science & Engineering in the Department o
 ### Publications
 
 #### News Coverage
-- Asif Razzaq. “OPEN-RAG: A Novel AI Framework Designed to Enhance Reasoning Capa-bilities in RAG with Open-Source LLMs”. In: Marktechpost (2024).<br/>
-**[Health ’16]** Anonymous. “Study Data from Virginia Tech Update Understanding of Epidemiology”. In: Health & Medicine Week (2016). Atlanta, 29 Apr 2016:5537.<br/>
-**[Conv ’16]**	Mohammad R Islam, KSM Tozammel Hossain, Siddharth Krishnan, and Naren Ramakrishnan. What AI Can Tell Us About the U.S. Supreme Court. In: The Conversation (2016). [This news is also featured on ACM Technews and the Daily Mail, UK.] [link]
+* Asif Razzaq. “OPEN-RAG: A Novel AI Framework Designed to Enhance Reasoning Capa-bilities in RAG with Open-Source LLMs”. In: Marktechpost (2024).<br/>
+* Anonymous. “Study Data from Virginia Tech Update Understanding of Epidemiology”. In: Health & Medicine Week (2016). Atlanta, 29 Apr 2016:5537.<br/>
+*	Mohammad R Islam, KSM Tozammel Hossain, Siddharth Krishnan, and Naren Ramakrishnan. What AI Can Tell Us About the U.S. Supreme Court. In: The Conversation (2016). [This news is also featured on ACM Technews and the Daily Mail, UK.] [link]
 
 #### Invited Talk
 **[WCA ’22]** Bhuwan Thapa, Sarah Lovell, Zhen Cai, K S M Tozammel Hossain, and Mi Young Kwon. “Agroforestry for Climate Risk Management: Effectiveness of Windbreaks in Reducing Crop Loss in the Midwest, USA”. In: 5th World Congress on Agroforestry. 2022.<br/>
