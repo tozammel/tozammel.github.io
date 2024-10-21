@@ -73,22 +73,31 @@ I obtained my B.Sc. degree in Computer Science & Engineering in the Department o
 ### Publications
 
 #### News Coverage
-**[MTech. ’24]** Asif Razzaq. “OPEN-RAG: A Novel AI Framework Designed to Enhance Reasoning Capa-bilities in RAG with Open-Source LLMs”. In: Marktechpost (2024).<br/>
+- Asif Razzaq. “OPEN-RAG: A Novel AI Framework Designed to Enhance Reasoning Capa-bilities in RAG with Open-Source LLMs”. In: Marktechpost (2024).<br/>
 **[Health ’16]** Anonymous. “Study Data from Virginia Tech Update Understanding of Epidemiology”. In: Health & Medicine Week (2016). Atlanta, 29 Apr 2016:5537.<br/>
 **[Conv ’16]**	Mohammad R Islam, KSM Tozammel Hossain, Siddharth Krishnan, and Naren Ramakrishnan. What AI Can Tell Us About the U.S. Supreme Court. In: The Conversation (2016). [This news is also featured on ACM Technews and the Daily Mail, UK.] [link]
 
 #### Invited Talk
+**[WCA ’22]** Bhuwan Thapa, Sarah Lovell, Zhen Cai, K S M Tozammel Hossain, and Mi Young Kwon. “Agroforestry for Climate Risk Management: Effectiveness of Windbreaks in Reducing Crop Loss in the Midwest, USA”. In: 5th World Congress on Agroforestry. 2022.<br/>
 **[INFORMS ’17]** KSM Tozammel Hossain, Greg Ver Steeg, and Aram Galstyan.Identifying latent structuresin human performance data using CorEx. INFORMS 2017.
 
 #### Refereed Journal Papers
+
+**[JBI 24]** Yulia I. Nussbaum, K.S.M. Tozammel Hossain, Jussuf Kaifi, Wesley C. Warren, Chi-Ren Shyu, and Jonathan B. Mitchem. “Identifying gene expression programs in single-cell RNA-seq data using linear correlation explanation”. In: Journal of Biomedical Informatics 154 (2024), p. 104644. ISSN: 1532-0464. 
+**[AIMag 23]**. D. Benjamin, F. Morstatter, A. Abbas, A. Abeliuk, P. Atanasov, S. Bennett, A. Beger, S. Birari, D. Budescu, M. Catasta, E. Ferrara, L. Haravitch, M. Himmelstein, K. Hossain, Y. Huang, R. Joseph, J. Leskovec, A. Matsui, M. Mirtaheri, G. Satyukov, R. Sethi, A. Singh, R. Sosic, M. Steyvers, P. Szekely, M. Ward, and A. Galstyan. “Hybrid Forecasting of Geopolitical Events”. In: AI Magazine (2023). 
+**[FAI ’22]** K. S. M. Tozammel Hossain, Hrayr Harutyunyan, Yue Ning, Brendan Kennedy, Naren Ra-makrishnan, and Aram Galstyan. “Identifying geopolitical event precursors using attention-based LSTMs”. In: Frontiers in Artificial Intelligence 5 (2022). ISSN: 2624-8212. DOI: 10.3389/frai.2022.893875.<br/> 
 **[AS '21]** Prayitno, Chi-Ren Shyu, Karisma Trinanda Putra, Hsing-Chung Chen, Yuan-Yu Tsai, KSM Tozammel Hossain, Wei Jiang, and Zon-Yin Shae. "A Systematic Review of Federated Learning in the Healthcare Area: from the perspective of Data Properties and Applica- tions". In: Applied Science (2021)<br/>
 **[JBA '21]** Abu S M Mosa, Chalermpon Thongmotai, Humayera Islam, Tanmoy Pal, KSM Tozam- mel Hossain, and Vasanthi Mandhadi. "Evaluation of Machine Learning Applications using Real-World EHR Data for Predicting Diabetes-Related Long-Term Complications". In: Journal of Business Analytics (2021), pp. 1–11<br/>
-**[JDMS '18]** KSM Tozammel Hossain, Shuyang Gao, Brendan Kennedy, Aram Galstyan, and Prem Natarajan. “Forecasting violent events in the Middle East and North Africa using HMM and regularized autoregressive models”. In: Journal of Defense Modeling and Simulation (2018). [Accepted].<br/>
+**[JDMS '20]** KSM Tozammel Hossain, Shuyang Gao, Brendan Kennedy, Aram Galstyan, and Prem Natarajan. “Forecasting violent events in the Middle East and North Africa using HMM and regularized autoregressive models”. In: Journal of Defense Modeling and Simulation (2018). [Accepted].<br/>
 **[DAMI '15]**	Liangzhe Chen, KSM Tozammel Hossain, Patrick Butler, Naren Ramakrishnan, and B Aditya Prakash. Syndromic Surveillance of Flu on Twitter using Weakly Supervised Temporal Topic Models. In: Data Mining and Knowledge Discovery (DAMI) (2015), pp. 1–30. [Link]<br/>
 **[TCBB '13]**	KSM Tozammel Hossain, Debprakash Patnaik, Srivatsan Laxman, Prateek Jain, Chris Bailey-Kellogg, and Naren Ramakrishnan. Improved Multiple Sequence Alignments using Coupled Pattern Mining. In: IEEE/ACM Transactions on Computational Biology and Bioinformatics 10.5 (Sept. 2013), pp. 1098–1112. [Link]<br/>
 **[JAMC ’09]**	Muhammad N Yanhaona, KSM Tozammel Hossain, and M Saidur Rahman. Pairwise Compatibility Graphs. In: Journal of Applied Mathematics and Computing (JAMC) 30.1- 2 (2009), pp. 479–503. [Link]  
 
 #### Refereed Conference Papers
+
+**[EMNLP Findings '2]**
+**[MeMeA ’24]** Md Maruf Hossain Shuvo, Twisha Titirsha, K S M Tozammel Hossain, Guido Lastra Gon-zalez, and Syed Kamrul Islam. “Enhancing Personalization and Mitigating Inter-Patient Variability in Continuous Blood Glucose Prediction Using Multi-Task Deep LSTMs”. In: IEEE International Symposium on Medical Measurements and Applications (MeMeA). 2024.
+**[AITest 23]** Huyen Nguyen, Haihua Chen, Roopesh Maganti, K S M Tozammel Hossain, and Junhua Ding. “Identifying High-quality Informative Comments for Software Review Summariza-tion”. In: IEEE AITest 2023. 2023.
 **[AMIA '22]** Lokesh Karanam, Kun Yi, Zon-Yin Shae, David Chang, Chi-Ren Shyu, and K S M Tozammel Hossain. “Continuous Anticipation of AKI in the ICU using Time-Gated LSTMs”. In: AMIA 2022 Clinical Informatics Conference. 2022.
 **[ICML WS ’19]** Mehrnoosh Mirtaheri, Sami Abu-El-Haija, KSM Tozammel Hossain, Fred Morstatter, and Aram Galstyan. “Tensor-based Method for Temporal Geopolitical Event Forecasting”. In: ICML Workshop. 2019.<br/>
 **[IJCAI Demo ’19]** Fred Morstatter, Aram Galstyan, and Gleb Satyukov et al. “SAGE: A Hybrid Geopolitical Event Forecasting System”. In: IJCAI Demo. 2019.<br/>
