@@ -28,13 +28,13 @@ plugins:
 
 ## About Me
 
-My name is Tozammel Hossain. I am currently an assistant professor in the Department of Information Science at the University of North Texas. Previously, I was an assistant research professor at the University of Missouri - Institute for Data Science and Informatics. I received my PhD in computer science at Virginia Tech and earned three years of experience as a postdoctoral associate at the University of Southern California-Information Sciences Institute (USC-ISI).
+My name is Tozammel Hossain. I am currently an assistant professor in the Department of Data Science at the University of North Texas. Previously, I was an assistant research professor at the University of Missouri - Institute for Data Science and Informatics. I received my PhD in computer science from Virginia Tech and gained 3 years of postdoctoral experience as a postdoctoral associate at the University of Southern California Information Sciences Institute (USC-ISI).
 
-<!---I am an Assitant Research Professor at the Unversity of Missour-Institute for Data Science and Informatics. EarlI am a postdoctoral research associate at the University of Southern California - [Information Sciences Institue (ISI)](https://www.isi.edu/). I earned my doctoral degree in computer science at [Virginia Tech]().<!---, where I worked under the supervision of [Dr. Naren Ramakrishnan](http://people.cs.vt.edu/~ramakris/) at [Discovery Analytics Center](https://dac.cs.vt.edu/). --->  
+<!---I am an Assistant Research Professor at the University of Missouri, Institute for Data Science and Informatics. EarlI am a postdoctoral research associate at the University of Southern California - [Information Sciences Institue (ISI)](https://www.isi.edu/). I earned my doctoral degree in computer science at [Virginia Tech]().<!---, where I worked under the supervision of [Dr. Naren Ramakrishnan](http://people.cs.vt.edu/~ramakris/) at [Discovery Analytics Center](https://dac.cs.vt.edu/). --->  
 
 <!---My research interests broadly lie in developing and applying data mining and machine learning techniques to solve problems stemming from bioinformatics, social networks, social science, and cyber security. I enjoy working at the boundaries between the data science and domain sciences. Some of my recent research addresses problems of inferring coevolving entities with interaction structure in complex systems, forecasting societal population and/or enterprise level events (like flu outbreak, military/non-state actor events, and malicious cyber activities), and modeling behavior, such as prejudice and ideological leanings, in social systems.--->  
 
-My research interests lie in applied machine learning and data science, with an emphasis on bioinformatics, health informatics, social science, and cybersecurity. Some of my recent research include devising methods for anticipating societal population-level events (e.g., flu outbreak and civil unrest), disease incidence, and cyber-attacks; inferring co-evolving entities and their interactions in complex systems; and modeling state and behavior in social systems (e.g., ideological leanings, polarization, and equity). 
+My research interests lie in applied machine learning and data science, with an emphasis on bioinformatics, health informatics, social science, and cybersecurity. Some of my recent research includes devising methods for anticipating societal population-level events (e.g., flu outbreaks and civil unrest), disease incidence, and cyber-attacks; inferring co-evolving entities and their interactions in complex systems; and modeling state and behavior in social systems (e.g., ideological leanings, polarization, and equity). 
 
 My career goal is to solve challenging problems in machine learning and data science.
 
@@ -45,13 +45,13 @@ My career goal is to solve challenging problems in machine learning and data sci
 
 ### Virginia Tech
 
-I earned my doctoral degree in the Department of Computer Science at Virginia Tech. I conducted my research in the Discovery Analytics Center led by Dr. Naren Ramakrishnan. My thesis was in the area of bioinformatics, specifically on modeling evolutionary constraints and improving multiple sequence alignments using couplings. I received a masters degree from the same department in 2014.
+I earned my doctoral degree in the Department of Computer Science at Virginia Tech. I conducted my research in the Discovery Analytics Center led by Dr. Naren Ramakrishnan. My thesis was in bioinformatics, specifically on modeling evolutionary constraints and improving multiple sequence alignments using couplings. I received a master's degree from the same department in 2014.
 
 <!---I am pursuing a doctoral degree in the Department of Computer Science at Virginia Tech. I am working in the Discovery Analytics Center led by Dr. Naren Ramakrishnan. I plan to finish my doctoral degree by Jul 2016. My thesis is Couplings for Modeling Evolutionary Constraints and Improving Multiple Sequence Alignments. I received a masters degree from the same department in 2014.  Currently, I am working on the projects Protein Constraints Modeling, Social Network Sensors, and Supreme Court Ideal Points Miner. I also worked on other projects: Hidden Topic Ailment State Model and Feature Selection in Rank-Order Space. During my course of Ph.D. study, I took courses in the area of machine learning, data mining, statistics, and bioinformatics. --->
 
 ### Bangladesh University of Engineering & Technology
 
-I obtained my B.Sc. degree in Computer Science & Engineering in the Department of CSE at Bangladesh University of Engineering & Technology in 2007. I conducted my undergraduate thesis under the supervision of Dr. Saidur Rahman, and my topic was Applications of Graphs in Bioinformatics.
+I obtained my B.Sc. degree in Computer Science & Engineering in the Department of CSE at Bangladesh University of Engineering & Technology in 2007. I conducted my undergraduate thesis under the supervision of Dr. Saidur Rahman, with the topic "Applications of Graphs in Bioinformatics."
 
 
 ### Experience
